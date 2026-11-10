@@ -1,6 +1,8 @@
-# 🌙 Namaz Reminder
+# 🌙 Gulbang-e-Salah
 
-A gentle, offline prayer-time reminder for **macOS** and **Windows**.
+**Call to prayer, right on your computer.** A gentle, offline prayer-time reminder for **macOS** and **Windows**.
+
+*Gulbang* (گلبانگ) is the melodious call — in Persian and Urdu poetry, the azaan. *Gulbang-e-Salah* is the call to salah.
 
 - On-time reminders — a calm full-screen reminder or a small corner banner at each prayer
 - Masjid-aware — tells you when to leave so you reach the iqamah
@@ -14,24 +16,24 @@ Go to the **[latest release](../../releases/latest)** and download:
 
 | Your computer | File |
 |---|---|
-| Mac (Intel or Apple Silicon) | `Namaz-Reminder-x.y.z-mac.dmg` |
-| Windows 10 / 11 | `Namaz-Reminder-Setup-x.y.z.exe` |
+| Mac (Intel or Apple Silicon) | `Gulbang-e-Salah-x.y.z-mac.dmg` |
+| Windows 10 / 11 | `Gulbang-e-Salah-Setup-x.y.z.exe` |
 
 ## 🛠 Installing
 
-Namaz Reminder isn't code-signed yet (signing certificates cost an annual fee), so your computer will warn you the first time. This is expected — here's how to open it.
+Gulbang-e-Salah isn't code-signed yet (signing certificates cost an annual fee), so your computer will warn you the first time. This is expected — here's how to open it.
 
 ### macOS
 
-1. Open the `.dmg` and drag **Namaz Reminder** into **Applications**.
+1. Open the `.dmg` and drag **Gulbang-e-Salah** into **Applications**.
 2. Open it from Applications. macOS will say it *can't verify the developer* — click **Done** (or **Cancel**).
-3. **macOS 15 Sequoia and newer:** open **System Settings → Privacy & Security**, scroll down and click **Open Anyway** next to Namaz Reminder, then confirm with your password.
+3. **macOS 15 Sequoia and newer:** open **System Settings → Privacy & Security**, scroll down and click **Open Anyway** next to Gulbang-e-Salah, then confirm with your password.
    **macOS 14 and older:** in Finder, **Control-click** (right-click) the app → **Open** → **Open**.
 4. You only need to do this once. The app lives in your menu bar (☾).
 
 ### Windows
 
-1. Run `Namaz-Reminder-Setup-x.y.z.exe`.
+1. Run `Gulbang-e-Salah-Setup-x.y.z.exe`.
 2. If you see **"Windows protected your PC"**, click **More info → Run anyway**.
 3. The app lives in your system tray (☾) — click the **^** arrow near the clock if you don't see it.
 
